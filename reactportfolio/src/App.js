@@ -16,7 +16,25 @@ function App() {
   return (
   <>
 
+<Router>
+<Header/>
+<Switch>
 
+{/* Paths for pages */}
+<Route exact path = "/homepage" component = {Homepage} />
+<Route exact path = "/photography" component = {Photography} />
+<Route exact path = "/portfolio" component = {Portfolio} />
+<Route exact path = "/contact" component = {Contact} />
+
+
+{/* Defaults to homepage */}
+<Route component = {Homepage} />
+
+
+
+
+</Switch>
+</Router>
 
 
 
