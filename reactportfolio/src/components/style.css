@@ -148,3 +148,10 @@ margin: 0%;
 
 
 }
+
+.approw {
+
+    text-align: center;
+    align-items: center;
+    align-content: center;
+  }

@@ -1,5 +1,7 @@
 import React from "react";
 import "./style.css"
+import pdf from "../assets/Resume 4-1-21.pdf"
+import Resume from "./Resume"
 export default class Contact extends React.Component{
 
  
@@ -35,7 +37,7 @@ return(
 
 <div className="row">
     <div className="col-12">
-    <p className="contactcontent" ><a href="./assets/Resume 4-1-21.pdf" download target="_blank">DOWNLOAD RESUME</a></p>
+<Resume></Resume>  
 </div>
 </div>
 </>
