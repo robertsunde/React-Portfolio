@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css"
-import {Row, Col} from "react-bootstrap"
+
 export default class Homepage extends React.Component{
 
  

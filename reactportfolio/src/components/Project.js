@@ -12,13 +12,9 @@ const Project = (props) => {
 return(
 <>
 
-<Container>
-<Row>
-<Col md="12">
+<div className="portfolio col-12">
 {props.children}
-</Col>
-</Row>
-</Container>
+</div>
 
 </> 
 )}
