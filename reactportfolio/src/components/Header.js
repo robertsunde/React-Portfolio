@@ -1,5 +1,7 @@
 import React from "react";
-import {Link, NavLink} from "react-router-dom"
+import {Link, NavLink} from "react-router-dom";
+import "./style.css";
+import {Col, Row} from "react-bootstrap";
 
 
 
@@ -12,47 +14,46 @@ export default class Header extends React.Component{
 
 render(){
     return(
-<div class="row">
+<Row>
 
-<div className="col-1">
+<Col xs={1}>
 <NavLink 
 className="nav-link headerselectors"
-activeClassName="active"
+activeClassName="active thispage"
 isActive={()=>window.location.pathname==="/homepage"}
 to = "/homepage" 
 >Home</NavLink>
-</div>
+</Col>
 
+<Col xs= {8}></Col>
 
-<div className="col-8"></div>
-
-<div className="col-1">
+<Col xs= {1}>
 <NavLink 
 className="nav-link headerselectors"
-activeClassName="active"
+activeClassName="active thispage"
 isActive={()=>window.location.pathname==="/portfolio"}
 to = "/portfolio" 
 >Portfolio</NavLink>
-</div>
+</Col>
 
-<div className="col-1">
+<Col xs= {1}>
 <NavLink 
 className="nav-link headerselectors"
-activeClassName="active"
+activeClassName="active thispage"
 isActive={()=>window.location.pathname==="/photography"}
 to = "/photography" 
 >Photography</NavLink>
-</div>
+</Col>
 
-<div className="col-1">
+<Col xs= {1}>
 <NavLink 
 className="nav-link headerselectors"
-activeClassName="active"
+activeClassName="active thispage"
 isActive={()=>window.location.pathname==="/contact"}
 to = "/contact" 
 >Contact</NavLink>
-</div>
+</Col>
 
 
-</div>
+</Row>
     )}}

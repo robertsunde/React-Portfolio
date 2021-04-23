@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css"
 export default class Photography extends React.Component{
 
  
@@ -8,6 +9,11 @@ export default class Photography extends React.Component{
 
 render(){
     return(
-    <><p className = "header" style={{textAlign:"center", fontSize:"36pt"}}>Photography</p></>
-    
+<>
+<div className="row">
+  <div className="col-12">
+  <p className="contacttitle">PHOTOGRAPHY</p>
+</div>
+</div>
+</>  
     )}}

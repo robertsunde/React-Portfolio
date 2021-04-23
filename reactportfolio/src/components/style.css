@@ -1,0 +1,150 @@
+.headerselectors {
+    font-family: 'DatalegreyaGradient';
+    font-size: 1.2vw;
+    font-weight: 550;
+    vertical-align: middle;
+    text-align: center;
+    margin: 5%;
+}
+
+.headerselectors:hover{
+    font-size: 1.21vw;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.col-1 {
+column-width: 100%;
+padding-left: 0%;
+padding-right: 0%;
+align-items: center;
+}
+
+.contactbody{
+    overflow: hidden;
+}
+
+.contacttitle {
+    font-family:'DatalegreyaGradient';
+    font-size: 5vw;
+    text-align: center;
+    font-weight: 550;
+}
+
+.contactcontent {
+    font-family:'DatalegreyaGradient';
+    font-size: 2vw;
+    text-align: center;
+    font-weight: 500;
+}
+
+.contactcontent:hover {
+    font-size: 2.01vw;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+    overflow: hidden;
+    ;
+}
+
+.thispage {
+    font-size: 1.21vw;
+    font-weight: bolder; 
+}
+
+.portfolio {
+
+    margin-bottom: 10cm;
+    margin-top: 3cm;
+    text-align: center;
+    }
+
+    .imageHeaders {
+
+        text-align: center;
+        color: white;
+        text-decoration: none;
+      
+      }
+
+      .applicationimages {
+          width: 65vw;
+          margin-left: auto;
+          margin-right: auto;
+          opacity: .95;
+      }
+
+      .verticalapplicationimages {
+          width: 40vw;
+          margin-left: auto;
+          margin-right: auto;
+          opacity: .95;
+      }
+
+      .centerimage {
+          text-align: center;
+      }
+
+      .applicationtitle {
+        font-family:'DatalegreyaGradient';
+        font-size: 3.5vw;
+        text-align: center;
+        font-weight: 500;
+    }
+
+    .applicationtitle:hover {
+        font-size: 3.51vw;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+    .applicationimages:hover {
+        opacity: 100;
+    }
+
+    .verticalapplicationimages:hover {
+        opacity: 100;
+    }
+
+    .bg-home {
+background-color: black;
+vertical-align: middle;
+
+
+    }
+
+    .homefont {
+color: white;
+
+    }
+
+    .homecontainer {
+height: 60vh;
+align-items: center;
+width: 100vw;
+padding: 0%;
+padding-top: 3%;
+margin: 0%;
+
+
+    }
+
+    .hometitle {
+        font-family:'DatalegreyaGradient';
+        font-size: 30vh;
+        text-align: center;
+        font-weight: 800;
+        color: white;
+        width: 100vw;
+
+
+}
