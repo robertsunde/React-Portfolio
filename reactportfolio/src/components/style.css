@@ -155,3 +155,37 @@ margin: 0%;
     align-items: center;
     align-content: center;
   }
+
+  .banner {
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+    width: 100vw;
+  }
+
+
+
+  .intro {
+    font-family: 'DatalegreyaGradient';
+    font-size: 2.5vw;
+    font-weight: 600;
+    text-align: center;
+    margin-top: .5cm;
+    margin-bottom: 0.1cm;
+  }
+
+.thumbnail {
+text-align: center;
+width: auto;
+font-family: 'DatalegreyaGradient';
+font-size: 2.5vw;
+font-weight: 600;
+margin-top: 0cm;
+}
+
+.photographypending {
+
+    font-family:'DatalegreyaGradient';
+    font-size: 3vw;
+    text-align: center;
+    font-weight: 550; 
+}
+

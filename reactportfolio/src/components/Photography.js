@@ -15,5 +15,13 @@ render(){
   <p className="contacttitle">PHOTOGRAPHY</p>
 </div>
 </div>
+
+
+<div className="row">
+  <div className="col-12">
+  <p className="photographypending">Coming Soon</p>
+</div>
+</div>
+
 </>  
     )}}
