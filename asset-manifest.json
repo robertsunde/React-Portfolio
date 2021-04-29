@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.c75449cb.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.61f34b67.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.61f34b67.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.3f9991d8.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5eb8a4d9.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5eb8a4d9.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e7baaf80.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e7baaf80.js.map",
-    "static/js/2.bf3131b8.chunk.js": "/React-Portfolio/static/js/2.bf3131b8.chunk.js",
-    "static/js/2.bf3131b8.chunk.js.map": "/React-Portfolio/static/js/2.bf3131b8.chunk.js.map",
+    "static/js/2.4235278d.chunk.js": "/React-Portfolio/static/js/2.4235278d.chunk.js",
+    "static/js/2.4235278d.chunk.js.map": "/React-Portfolio/static/js/2.4235278d.chunk.js.map",
     "static/js/3.5426c520.chunk.js": "/React-Portfolio/static/js/3.5426c520.chunk.js",
     "static/js/3.5426c520.chunk.js.map": "/React-Portfolio/static/js/3.5426c520.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.c75449cb.chunk.css.map": "/React-Portfolio/static/css/main.c75449cb.chunk.css.map",
-    "static/js/2.bf3131b8.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.bf3131b8.chunk.js.LICENSE.txt",
+    "static/css/main.3f9991d8.chunk.css.map": "/React-Portfolio/static/css/main.3f9991d8.chunk.css.map",
+    "static/js/2.4235278d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4235278d.chunk.js.LICENSE.txt",
     "static/media/Burger-Application-Live.f618273a.png": "/React-Portfolio/static/media/Burger-Application-Live.f618273a.png",
+    "static/media/GitHub_Logo.746ec8f0.png": "/React-Portfolio/static/media/GitHub_Logo.746ec8f0.png",
     "static/media/amnesia(null).e61faf57.png": "/React-Portfolio/static/media/amnesia(null).e61faf57.png",
     "static/media/dayPlanner.3a20e4f8.png": "/React-Portfolio/static/media/dayPlanner.3a20e4f8.png",
+    "static/media/main_banner_cropped.d4779a44.jpg": "/React-Portfolio/static/media/main_banner_cropped.d4779a44.jpg",
     "static/media/nalejApp.2fe0f033.jpeg": "/React-Portfolio/static/media/nalejApp.2fe0f033.jpeg",
     "static/media/passwordGenerator.c2a6dd90.jpg": "/React-Portfolio/static/media/passwordGenerator.c2a6dd90.jpg",
+    "static/media/thumbnail.0c35a027.PNG": "/React-Portfolio/static/media/thumbnail.0c35a027.PNG",
     "static/media/weatherApp.5d8b3876.png": "/React-Portfolio/static/media/weatherApp.5d8b3876.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e7baaf80.js",
-    "static/js/2.bf3131b8.chunk.js",
-    "static/css/main.c75449cb.chunk.css",
-    "static/js/main.61f34b67.chunk.js"
+    "static/js/2.4235278d.chunk.js",
+    "static/css/main.3f9991d8.chunk.css",
+    "static/js/main.5eb8a4d9.chunk.js"
   ]
 }
